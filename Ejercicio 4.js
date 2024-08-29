@@ -4,5 +4,5 @@ function ordenarArreglo(arreglo) {
     return arreglo.sort((a, b) => a - b);
 }
 
-const numeros = [5, 2, 9, 1, 7];
+const numeros = [45, 22, 10, 7, 3];
 console.log("Arreglo ordenado:", ordenarArreglo(numeros));
